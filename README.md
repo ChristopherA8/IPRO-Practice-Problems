@@ -52,3 +52,15 @@
     Result: Chris
     ```
     <br>
+
+### Task 4.
+
+1. Enter a string (max. 50 characters)
+2. Print only the vowels in the string (a, e, i, o, u, A, E, I, O, U)
+
+    #### Example
+    ```C
+    String: this is a string
+    Vowels: iiai
+    ```
+    <br>
